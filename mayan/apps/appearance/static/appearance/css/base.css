@@ -410,3 +410,18 @@ a i {
 .btn-list {
     margin-bottom: 2px;
 }
+
+/*Improved color contrast*/
+.pull-left {
+  color: #0B5B4B;
+}
+
+.btn-default {
+  background-color: #4A5959;
+  border-color: #4A5959;
+}
+
+.btn-default:hover {
+  background-color: #444E50;
+  border-color: #444E50;
+}
